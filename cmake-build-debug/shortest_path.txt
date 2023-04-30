@@ -1,0 +1,94 @@
+the total distance between Akka and Tubas is: 104 
+and the shortest path between them is: 
+Akka->Jenin->Tubas
+the distance between each tow cities:
+
+Akka->Jenin:74
+Jenin->Tubas:30
+-------------------------------------------------------------
+the total distance between Tubas and Akka is: 346 
+and the shortest path between them is: 
+Tubas->Jericho->Ramallah->Salfit->Tulkarem->Haifa->Nazareth->Akka
+the distance between each tow cities:
+
+Tubas->Jericho:52
+Jericho->Ramallah:53
+Ramallah->Salfit:38
+Salfit->Tulkarem:53
+Tulkarem->Haifa:57
+Haifa->Nazareth:60
+Nazareth->Akka:33
+-------------------------------------------------------------
+the total distance between Akka and Jenin is: 74 
+and the shortest path between them is: 
+Akka->Jenin
+the distance between each tow cities:
+
+Akka->Jenin:74
+-------------------------------------------------------------
+the total distance between Nazareth and Jenin is: 107 
+and the shortest path between them is: 
+Nazareth->Akka->Jenin
+the distance between each tow cities:
+
+Nazareth->Akka:33
+Akka->Jenin:74
+-------------------------------------------------------------
+the total distance between Tubas and Akka is: 346 
+and the shortest path between them is: 
+Tubas->Jericho->Ramallah->Salfit->Tulkarem->Haifa->Nazareth->Akka
+the distance between each tow cities:
+
+Tubas->Jericho:52
+Jericho->Ramallah:53
+Ramallah->Salfit:38
+Salfit->Tulkarem:53
+Tulkarem->Haifa:57
+Haifa->Nazareth:60
+Nazareth->Akka:33
+-------------------------------------------------------------
+the total distance between Salfit and Nazareth is: 170 
+and the shortest path between them is: 
+Salfit->Tulkarem->Haifa->Nazareth
+the distance between each tow cities:
+
+Salfit->Tulkarem:53
+Tulkarem->Haifa:57
+Haifa->Nazareth:60
+-------------------------------------------------------------
+the total distance between Tubas and Akka is: 101KM  KM
+and the shortest path between them is: 
+Tubas->Jenin->Nazareth->Akka
+the distance between each tow cities:
+
+Tubas->Jenin:30 KM
+Jenin->Nazareth:38 KM
+Nazareth->Akka:33 KM
+-------------------------------------------------------------
+the total distance between Tubas and Akka is: 101KM  KM
+and the shortest path between them is: 
+Tubas->Jenin->Nazareth->Akka
+the distance between each tow cities:
+
+Tubas->Jenin:30 KM
+Jenin->Nazareth:38 KM
+Nazareth->Akka:33 KM
+-------------------------------------------------------------
+the total distance between Akka and Tubas is: 101KM  KM
+and the shortest path between them is: 
+Akka->Nazareth->Jenin->Tubas
+the distance between each tow cities:
+
+Akka->Nazareth:33 KM
+Nazareth->Jenin:38 KM
+Jenin->Tubas:30 KM
+-------------------------------------------------------------
+the total distance between Tubas and Akka is: 101KM  KM
+and the shortest path between them is: 
+Tubas->Jenin->Nazareth->Akka
+the distance between each tow cities:
+
+Tubas->Jenin:30 KM
+Jenin->Nazareth:38 KM
+Nazareth->Akka:33 KM
+-------------------------------------------------------------

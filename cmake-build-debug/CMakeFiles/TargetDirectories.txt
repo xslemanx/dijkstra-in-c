@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/data structure in c projects/Project IV/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/data structure in c projects/Project IV/cmake-build-debug/CMakeFiles/Project_IV.dir
+C:/Users/HP/Desktop/data structure in c projects/Project IV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
